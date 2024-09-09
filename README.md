@@ -12,7 +12,7 @@
 
 <img src="resource/km.jpg" width="180" height="250">  <img src="resource/lt.jpg" width="180" height="250">  <img src="resource/hj.jpg" width="180" height="250">  <img src="resource/zzr.jpg" width="180" height="250">
 
-授课团队：孔  鸣  梁恬  黄靖  赵卓然                       
+授课团队：孔  鸣、梁恬、黄靖、赵卓然                       
 邮箱地址：<zjukongming@zju.edu.cn>、<liangtian2022@zju.edu.cn>、<huangjin9@zju.edu.cn>、<zhuoranzhao@zju.edu.cn>
 
 ---
