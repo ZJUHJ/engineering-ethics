@@ -12,18 +12,8 @@
 
 <img src="resource/km.jpg" width="180" height="250">  <img src="resource/lt.jpg" width="180" height="250">  <img src="resource/hj.jpg" width="180" height="250">  <img src="resource/zzr.jpg" width="180" height="250">
 
-授课老师：孔  鸣                          黄靖                       
-邮箱地址：<zjukongming@zju.edu.cn>        <liangtian2022@zju.edu.cn> 
-
-<img src="resource/lt.jpg" width="180" height="250">
-
-授课老师：梁  恬  
-邮箱地址：<liangtian2022@zju.edu.cn>
-
-<img src="resource/zzr.jpg" width="180" height="250">
-
-教学助理：赵  卓  然  
-邮箱地址：<zhuoranzhao@zju.edu.cn>
+授课团队：孔  鸣  梁恬  黄靖  赵卓然                       
+邮箱地址：<zjukongming@zju.edu.cn>  <liangtian2022@zju.edu.cn>  <huangjin9@zju.edu.cn>  <zhuoranzhao@zju.edu.cn>
 
 ---
 
