@@ -7,13 +7,13 @@
 
 <img src="resource/zhuq.jpg" width="180" height="250">
 
-授课老师：[朱  强](https://person.zju.edu.cn/zhuq?ivk_sa=1025922p)  
+主授课老师：[朱  强](https://person.zju.edu.cn/zhuq?ivk_sa=1025922p)  
 邮箱地址：<zhuq@zju.edu.cn>
 
-<img src="resource/km.jpg" width="180" height="250">
+<img src="resource/km.jpg" width="180" height="250">  <img src="resource/lt.jpg" width="180" height="250">  <img src="resource/hj.jpg" width="180" height="250">  <img src="resource/zzr.jpg" width="180" height="250">
 
-授课老师：孔  鸣  
-邮箱地址：<zjukongming@zju.edu.cn>
+授课老师：孔  鸣                          黄靖                       
+邮箱地址：<zjukongming@zju.edu.cn>        <liangtian2022@zju.edu.cn> 
 
 <img src="resource/lt.jpg" width="180" height="250">
 
