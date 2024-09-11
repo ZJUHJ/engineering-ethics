@@ -48,7 +48,7 @@
     <td rowspan="2">1</td>
     <td rowspan="2">9/10</td>
     <td>孔鸣</td>
-    <td>工程伦理基本概念<a href="https://alidocs.dingtalk.com/i/nodes/7NkDwLng8ZM3YxZLsOAzGljLJKMEvZBY?utm_scene=person_space">[slides]</a></td>
+    <td>工程伦理基本概念<a href="https://alidocs.dingtalk.com/i/nodes/P7QG4Yx2Jp7NoPGLUA01G9x1V9dEq3XD?utm_scene=person_space">[slides1]</a><a href="https://alidocs.dingtalk.com/i/nodes/o14dA3GK8g5No0rjhz4rRx9nV9ekBD76?utm_scene=person_space">[slides2]</a></td>
   </tr>
   <tr>
     <td>赵卓然</td>
