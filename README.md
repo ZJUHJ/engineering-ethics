@@ -58,11 +58,11 @@
     <td rowspan="2">2</td>
     <td rowspan="2">9/21</td>
     <td>朱强</td>
-    <td>人工智能技术简史及伦理挑战</td>
+    <td>人工智能技术简史及伦理挑战<a href="https://alidocs.dingtalk.com/i/nodes/Obva6QBXJw9loyGaTqYL9rz2Wn4qY5Pr?utm_scene=person_space">[slides]</a></td>
   </tr>
   <tr>
     <td>黄靖</td>
-    <td>AIGC的价值观和伦理问题</td>
+    <td>AIGC的价值观和伦理问题<a href="https://alidocs.dingtalk.com/i/nodes/oP0MALyR8k79oydlUqaDQOKy83bzYmDO?utm_scene=person_space">[slides]</a></td>
   </tr>
   <tr>
     <td rowspan="2">3</td>
