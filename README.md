@@ -68,11 +68,11 @@
     <td rowspan="2">3</td>
     <td rowspan="2">9/24</td>
     <td>朱强</td>
-    <td>人工智能的偏见与歧视：AI可解释性</td>
+    <td>人工智能的偏见与歧视：AI可解释性<a href="https://alidocs.dingtalk.com/i/nodes/lyQod3RxJK3mjxPGtgRjAlwAJkb4Mw9r?utm_scene=person_space">[slides]</a></td>
   </tr>
   <tr>
     <td>梁恬</td>
-    <td>人工智能的真实与虚幻：大模型幻觉</td>
+    <td>人工智能的真实与虚幻：大模型幻觉<a href="https://alidocs.dingtalk.com/i/nodes/7NkDwLng8ZM3YxZLsOZ04vAvJKMEvZBY?utm_scene=person_space">[slides]</a></td>
   </tr>
   <tr>
     <td rowspan="2">4</td>
