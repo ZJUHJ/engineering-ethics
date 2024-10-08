@@ -78,7 +78,7 @@
     <td rowspan="2">4</td>
     <td rowspan="2">10/8</td>
     <td>朱强</td>
-    <td>隐私保护技术：联邦学习和差分隐私</td>
+    <td>隐私保护技术：联邦学习和差分隐私<a href="https://alidocs.dingtalk.com/i/nodes/EpGBa2Lm8azv5dwGsLNvmawdWgN7R35y?utm_scene=person_space">[slides]</a></td>
   </tr>
   <tr>
     <td></td>
