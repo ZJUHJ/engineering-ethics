@@ -39,7 +39,6 @@
     <tr>
       <th>周次</th>
       <th>日期</th>
-      <th>时间段</th>
       <th>授课</th>
       <th>内容</th>
     </tr>
@@ -48,48 +47,40 @@
     <tr>
       <td rowspan="2">1</td>
       <td rowspan="2">9/16</td>
-      <td>18:50~21:50</td>
       <td>朱强</td>
       <td>人工智能技术简史及伦理挑战</td>
     </tr>
     <tr>
-      <td>21:50~22:05</td>
-      <td>助教</td>
+      <td>包牧天</td>
       <td>课程介绍</td>
     </tr>
     <tr>
       <td rowspan="2">2</td>
       <td rowspan="2">9/23</td>
-      <td>18:50~19:35</td>
       <td>朱强</td>
       <td>人工智能的偏见与歧视：AI可解释性</td>
     </tr>
     <tr>
-      <td>19:50~22:05</td>
       <td>孔鸣</td>
       <td>工程伦理基本概念</td>
     </tr>
     <tr>
       <td rowspan="2">3</td>
       <td rowspan="2">9/28（周日调休，上10/7课）</td>
-      <td>18:50~20:20</td>
       <td>黄靖</td>
       <td>AIGC技术带来的伦理挑战</td>
     </tr>
     <tr>
-      <td>20:35~22:05</td>
       <td>张容语</td>
       <td>大模型工具带来的伦理挑战</td>
     </tr>
     <tr>
       <td rowspan="2">4</td>
       <td rowspan="2">9/30</td>
-      <td>18:50~20:20</td>
       <td>梁恬</td>
       <td>隐私保护技术：联邦学习和差分隐私</td>
     </tr>
     <tr>
-      <td>20:35~22:05</td>
       <td>杜越天</td>
       <td>人工智能的真实与虚幻：大模型幻觉</td>
     </tr>
@@ -97,11 +88,9 @@
       <td rowspan="2">5</td>
       <td rowspan="2">10/14</td>
       <td></td>
-      <td></td>
       <td>论文研读</td>
     </tr>
     <tr>
-      <td></td>
       <td></td>
       <td>论文研读</td>
     </tr>
@@ -109,11 +98,9 @@
       <td rowspan="2">6</td>
       <td rowspan="2">10/21</td>
       <td></td>
-      <td></td>
       <td>主题调研</td>
     </tr>
     <tr>
-      <td></td>
       <td></td>
       <td>主题调研</td>
     </tr>
@@ -121,11 +108,9 @@
       <td rowspan="2">7</td>
       <td rowspan="2">10/28</td>
       <td></td>
-      <td></td>
       <td>话题辩论</td>
     </tr>
     <tr>
-      <td></td>
       <td></td>
       <td>话题辩论</td>
     </tr>
@@ -133,11 +118,11 @@
       <td>8</td>
       <td>11/4</td>
       <td></td>
-      <td></td>
       <td>期末考试</td>
     </tr>
   </tbody>
 </table>
+
 
 
 ## 项目设计
