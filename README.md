@@ -10,10 +10,10 @@
 主授课老师：[朱  强](https://person.zju.edu.cn/zhuq?ivk_sa=1025922p)  
 邮箱地址：<zhuq@zju.edu.cn>
 
-<img src="resource/km.jpg" width="180" height="250">  <img src="resource/lt.jpg" width="180" height="250">  <img src="resource/hj.jpg" width="180" height="250">  <img src="resource/zzr.jpg" width="180" height="250">
+<img src="resource/km.jpg" width="180" height="250">  <img src="resource/lt.jpg" width="180" height="250">  <img src="resource/hj.jpg" width="180" height="250">  <img src="resource/zry.jpg" width="180" height="250">
 
-授课团队：孔  鸣、梁恬、黄靖、赵卓然                       
-邮箱地址：<zjukongming@zju.edu.cn>、<liangtian2022@zju.edu.cn>、<huangjin9@zju.edu.cn>、<zhuoranzhao@zju.edu.cn>
+授课团队：孔  鸣、梁恬、黄靖、张容语                       
+邮箱地址：<zjukongming@zju.edu.cn>、<liangtian2022@zju.edu.cn>、<huangjin9@zju.edu.cn>、<rongyu.zhang@zju.edu.cn>
 
 ---
 
@@ -35,88 +35,110 @@
 ## 课程安排
 
 <table>
-<thead>
-  <tr>
-    <th>周次</th>
-    <th>日期</th>
-    <th>授课</th>
-    <th>内容</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td rowspan="2">1</td>
-    <td rowspan="2">9/10</td>
-    <td>孔鸣</td>
-    <td>工程伦理基本概念<a href="https://alidocs.dingtalk.com/i/nodes/P7QG4Yx2Jp7NoPGLUA01G9x1V9dEq3XD?utm_scene=person_space">[slides1]</a><a href="https://alidocs.dingtalk.com/i/nodes/o14dA3GK8g5No0rjhz4rRx9nV9ekBD76?utm_scene=person_space">[slides2]</a></td>
-  </tr>
-  <tr>
-    <td>赵卓然</td>
-    <td>课程介绍</td>
-  </tr>
-  <tr>
-    <td rowspan="2">2</td>
-    <td rowspan="2">9/21</td>
-    <td>朱强</td>
-    <td>人工智能技术简史及伦理挑战<a href="https://alidocs.dingtalk.com/i/nodes/Obva6QBXJw9loyGaTqYL9rz2Wn4qY5Pr?utm_scene=person_space">[slides]</a></td>
-  </tr>
-  <tr>
-    <td>黄靖</td>
-    <td>AIGC的价值观和伦理问题<a href="https://alidocs.dingtalk.com/i/nodes/oP0MALyR8k79oydlUqaDQOKy83bzYmDO?utm_scene=person_space">[slides]</a></td>
-  </tr>
-  <tr>
-    <td rowspan="2">3</td>
-    <td rowspan="2">9/24</td>
-    <td>朱强</td>
-    <td>人工智能的偏见与歧视：AI可解释性<a href="https://alidocs.dingtalk.com/i/nodes/lyQod3RxJK3mjxPGtgRjAlwAJkb4Mw9r?utm_scene=person_space">[slides]</a></td>
-  </tr>
-  <tr>
-    <td>梁恬</td>
-    <td>人工智能的真实与虚幻：大模型幻觉<a href="https://alidocs.dingtalk.com/i/nodes/7NkDwLng8ZM3YxZLsOZ04vAvJKMEvZBY?utm_scene=person_space">[slides]</a></td>
-  </tr>
-  <tr>
-    <td rowspan="2">4</td>
-    <td rowspan="2">10/8</td>
-    <td>朱强</td>
-    <td>隐私保护技术：联邦学习和差分隐私<a href="https://alidocs.dingtalk.com/i/nodes/EpGBa2Lm8azv5dwGsLNvmawdWgN7R35y?utm_scene=person_space">[slides]</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>论文研读（6组）</td>
-  </tr>
-  <tr>
-    <td rowspan="2">5</td>
-    <td rowspan="2">10/15</td>
-    <td></td>
-    <td>论文研读（9组）</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>主题调研（3组）</td>
-  </tr>
-  <tr>
-    <td rowspan="2">6</td>
-    <td rowspan="2">10/22</td>
-    <td></td>
-    <td>主题调研（12组）</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td rowspan="2">7</td>
-    <td rowspan="2">10/29</td>
-    <td></td>
-    <td>话题辩论（5组）</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>期末考试</td>
-  </tr>
-
-</tbody>
+  <thead>
+    <tr>
+      <th>周次</th>
+      <th>日期</th>
+      <th>时间段</th>
+      <th>授课</th>
+      <th>内容</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">1</td>
+      <td rowspan="2">9/16</td>
+      <td>18:50~21:50</td>
+      <td>朱强</td>
+      <td>人工智能技术简史及伦理挑战</td>
+    </tr>
+    <tr>
+      <td>21:50~22:05</td>
+      <td>包牧天</td>
+      <td>课程介绍</td>
+    </tr>
+    <tr>
+      <td rowspan="2">2</td>
+      <td rowspan="2">9/23</td>
+      <td>18:50~19:35</td>
+      <td>朱强</td>
+      <td>人工智能的偏见与歧视：AI可解释性</td>
+    </tr>
+    <tr>
+      <td>19:50~22:05</td>
+      <td>孔鸣</td>
+      <td>工程伦理基本概念</td>
+    </tr>
+    <tr>
+      <td rowspan="2">3</td>
+      <td rowspan="2">9/28（周日调休，上10/7课）</td>
+      <td>18:50~20:20</td>
+      <td>黄靖</td>
+      <td>AIGC技术带来的伦理挑战</td>
+    </tr>
+    <tr>
+      <td>20:35~22:05</td>
+      <td>张容语</td>
+      <td>大模型工具带来的伦理挑战</td>
+    </tr>
+    <tr>
+      <td rowspan="2">4</td>
+      <td rowspan="2">9/30</td>
+      <td>18:50~20:20</td>
+      <td>梁恬</td>
+      <td>隐私保护技术：联邦学习和差分隐私</td>
+    </tr>
+    <tr>
+      <td>20:35~22:05</td>
+      <td>杜越天</td>
+      <td>人工智能的真实与虚幻：大模型幻觉</td>
+    </tr>
+    <tr>
+      <td rowspan="2">5</td>
+      <td rowspan="2">10/14</td>
+      <td></td>
+      <td></td>
+      <td>论文研读</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>论文研读</td>
+    </tr>
+    <tr>
+      <td rowspan="2">6</td>
+      <td rowspan="2">10/21</td>
+      <td></td>
+      <td></td>
+      <td>主题调研</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>主题调研</td>
+    </tr>
+    <tr>
+      <td rowspan="2">7</td>
+      <td rowspan="2">10/28</td>
+      <td></td>
+      <td></td>
+      <td>话题辩论</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>话题辩论</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>11/4</td>
+      <td></td>
+      <td></td>
+      <td>期末考试</td>
+    </tr>
+  </tbody>
 </table>
+
 
 ## 项目设计
 
