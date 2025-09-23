@@ -154,3 +154,4 @@
 
 - 李正风，丛杭青，王前等. 工程伦理（第2版）.  清华大学出版社
 - 古天龙 . 人工智能伦理导论.  高等教育出版社
+- 在线课程资源：https://www.bilibili.com/cheese/play/ss947021652?bsource=link_copy
