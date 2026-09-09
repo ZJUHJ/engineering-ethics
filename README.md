@@ -1,6 +1,6 @@
 <!-- <p align="center"><font size="10">工程伦理（Engineering Ethics）</font></p>
-<p align="center"><font size="5">2024年秋季</font></p>
-<p align="center"><font size="5">周二11-14节 玉泉教7-506</font></p> -->
+<p align="center"><font size="5">2026年秋季</font></p>
+<p align="center"><font size="5">周四11-14节 紫金港东1A-紫金港201</font></p> -->
 ---
 
 ## 教学团队
@@ -10,10 +10,9 @@
 主授课老师：[朱  强](https://person.zju.edu.cn/zhuq?ivk_sa=1025922p)  
 邮箱地址：<zhuq@zju.edu.cn>
 
-<img src="resource/km.jpg" width="180" height="250">  <img src="resource/lt.jpg" width="170" height="240">  <img src="resource/hj.jpg" width="160" height="230">  <img src="resource/dyt.jpg" width="170" height="240"> <img src="resource/zry.jpg" width="160" height="230">
+<img src="resource/lj.jpg" width="180" height="250">  <img src="resource/lyd.jpg" width="170" height="240">  <img src="resource/dyt.jpg" width="160" height="230">  <img src="resource/bmt.jpg" width="170" height="240"> <img src="resource/lzz.jpg" width="160" height="230">
 
-授课团队：孔  鸣、梁恬、黄靖、杜越天、张容语                       
-邮箱地址：<zjukongming@zju.edu.cn>、<liangtian2022@zju.edu.cn>、<huangjin9@zju.edu.cn>、<duyuetian2002@zju.edu.cn>、<rongyu.zhang@zju.edu.cn>
+授课团队：刘洁、李亚东、杜越天、包牧天、励镇泽
 
 ---
 
@@ -43,85 +42,85 @@
       <th>内容</th>
     </tr>
   </thead>
+
   <tbody>
     <tr>
       <td rowspan="2">1</td>
-      <td rowspan="2">9/16</td>
+      <td rowspan="2">9/17</td>
       <td>朱强</td>
       <td>人工智能技术简史及伦理挑战</td>
     </tr>
     <tr>
-      <td>助教</td>
-      <td>课程介绍</td>
+      <td>刘洁</td>
+      <td>课程介绍，工程伦理基本概念</td>
     </tr>
-    <tr>
-      <td rowspan="2">2</td>
-      <td rowspan="2">9/23</td>
-      <td>朱强</td>
-      <td>人工智能的偏见与歧视：AI可解释性</td>
-    </tr>
-    <tr>
-      <td>孔鸣</td>
-      <td>工程伦理基本概念</td>
-    </tr>
-    <tr>
-      <td rowspan="2">3</td>
-      <td rowspan="2">9/28（周日调休，上10/7课）</td>
-      <td>黄靖</td>
-      <td>AIGC技术带来的伦理挑战</td>
-    </tr>
-    <tr>
-      <td>张容语</td>
-      <td>大模型工具带来的伦理挑战</td>
-    </tr>
-    <tr>
-      <td rowspan="2">4</td>
-      <td rowspan="2">9/30</td>
-      <td>梁恬</td>
-      <td>隐私保护技术：联邦学习和差分隐私</td>
-    </tr>
-    <tr>
-      <td>杜越天</td>
-      <td>人工智能的真实与虚幻：大模型幻觉</td>
-    </tr>
-    <tr>
-      <td rowspan="2">5</td>
-      <td rowspan="2">10/14</td>
-      <td></td>
-      <td>论文研读</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>论文研读</td>
-    </tr>
-    <tr>
-      <td rowspan="2">6</td>
-      <td rowspan="2">10/21</td>
-      <td></td>
-      <td>主题调研</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>主题调研</td>
-    </tr>
-    <tr>
-      <td rowspan="2">7</td>
-      <td rowspan="2">10/28</td>
-      <td></td>
-      <td>话题辩论</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>话题辩论</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>11/4</td>
-      <td></td>
-      <td>期末考试</td>
-    </tr>
+
+  <tr>
+    <td rowspan="2">2</td>
+    <td rowspan="2">9/24</td>
+    <td>包牧天</td>
+    <td>AIGC技术带来的伦理挑战</td>
+  </tr>
+  <tr>
+    <td>励镇泽</td>
+    <td>大模型工具带来的伦理挑战</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">3</td>
+    <td rowspan="2">10/8</td>
+    <td>李亚东</td>
+    <td>高风险决策中的大模型伦理，专家对齐与人类监督</td>
+  </tr>
+  <tr>
+    <td>杜越天</td>
+    <td>人工智能的真实与虚幻：大模型幻觉</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">4</td>
+    <td rowspan="2">10/15</td>
+    <td></td>
+    <td>论文研读</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>论文研读</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">5</td>
+    <td rowspan="2">10/22</td>
+    <td></td>
+    <td>主题调研</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>主题调研</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">6</td>
+    <td rowspan="2">10/29</td>
+    <td></td>
+    <td>话题辩论</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>话题辩论</td>
+  </tr>
+
+  <tr>
+    <td>7</td>
+    <td>11/5</td>
+    <td></td>
+    <td>期末考试</td>
+  </tr>
+
+
   </tbody>
 </table>
+
 
 
 
