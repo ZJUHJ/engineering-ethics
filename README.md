@@ -10,7 +10,7 @@
 主授课老师：[朱  强](https://person.zju.edu.cn/zhuq?ivk_sa=1025922p)  
 邮箱地址：<zhuq@zju.edu.cn>
 
-<img src="resource/lj.jpg" width="180" height="250">  <img src="resource/lyd.jpg" width="170" height="240">  <img src="resource/dyt.jpg" width="160" height="230">  <img src="resource/bmt.jpg" width="170" height="240"> <img src="resource/lzz.jpg" width="160" height="230">
+<img src="resource/lj.jpg" width="170" height="240">  <img src="resource/lyd.jpg" width="170" height="240">  <img src="resource/dyt.jpg" width="170" height="240">  <img src="resource/bmt.jpg" width="170" height="240"> <img src="resource/lzz.jpg" width="170" height="240">
 
 授课团队：刘洁、李亚东、杜越天、包牧天、励镇泽
 
